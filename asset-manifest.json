@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/studious-fishstick/static/css/main.eb5d654e.css",
+    "main.js": "/studious-fishstick/static/js/main.e13ef6cf.js",
+    "index.html": "/studious-fishstick/index.html",
+    "main.eb5d654e.css.map": "/studious-fishstick/static/css/main.eb5d654e.css.map",
+    "main.e13ef6cf.js.map": "/studious-fishstick/static/js/main.e13ef6cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb5d654e.css",
+    "static/js/main.e13ef6cf.js"
+  ]
+}
